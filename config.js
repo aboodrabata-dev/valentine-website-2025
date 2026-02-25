@@ -1,21 +1,19 @@
 // ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
 // ============================================
 
 const CONFIG = {
-    // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Mohinur",
+    // Name
+    Name: "Mohinur",
 
     // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
+    // Use emojis! 💝 💖 💗 💓 💞 💕
     pageTitle: "Will you be happy and not mad anymore???? 💕 💕 💕",
 
     // Floating emojis that appear in the background
-    // Find more emojis at: https://emojipedia.org
+    // More emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻', '🐱', '🐱', '🐱', '🐱', '🐱']                       // Cute bear emojis
+        bears: ['🧸', '🐻', '🐱', '🐱', '🐱', '🐱', '🐱']                       // Cute bear and cat emojis
     },
 
     // Questions and answers
@@ -73,7 +71,7 @@ const CONFIG = {
         heartExplosionSize: 2.0         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
-    // Background Music (Optional)
+    // Background Music
     // Add your own music URL after getting proper licenses
     music: {
         enabled: true,                     // Music feature is enabled
