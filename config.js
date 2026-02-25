@@ -23,7 +23,7 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you love me? P.S: Take your time and dont rush, go with the flow of the music!", 
-            text: "P.S: Take your time and dont rush, go with the flow of the music!"
+            text: "P.S: Take your time and dont rush, go with the flow of the music!",
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't only love you, you are my 7beebi! ❤️"           // Secret hover message
