@@ -3,7 +3,7 @@
 
 const CONFIG = {
     // Name
-    valetinesName: "Mohinur",
+    valentineName: "Mohinur",
 
     // The title that appears in the browser tab
     // Use emojis! 💝 💖 💗 💓 💞 💕
